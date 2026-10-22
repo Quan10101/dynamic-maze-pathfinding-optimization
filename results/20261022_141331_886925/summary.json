@@ -1,0 +1,50 @@
+[
+  {
+    "algorithm": "bfs",
+    "trials": 120,
+    "success_rate": 0.625,
+    "valid_rate": 1.0,
+    "mean_length_success_only": 42.453,
+    "mean_expanded": 306.75,
+    "std_expanded": 265.454,
+    "mean_runtime_ms": 0.411797,
+    "std_runtime_ms": 0.402757,
+    "median_runtime_ms": 0.2923
+  },
+  {
+    "algorithm": "bibfs",
+    "trials": 120,
+    "success_rate": 0.625,
+    "valid_rate": 1.0,
+    "mean_length_success_only": 42.453,
+    "mean_expanded": 230.25,
+    "std_expanded": 243.765,
+    "mean_runtime_ms": 0.420652,
+    "std_runtime_ms": 0.472639,
+    "median_runtime_ms": 0.2467
+  },
+  {
+    "algorithm": "dijkstra",
+    "trials": 120,
+    "success_rate": 0.625,
+    "valid_rate": 1.0,
+    "mean_length_success_only": 42.453,
+    "mean_expanded": 306.975,
+    "std_expanded": 265.489,
+    "mean_runtime_ms": 0.625742,
+    "std_runtime_ms": 0.573316,
+    "median_runtime_ms": 0.4236
+  },
+  {
+    "algorithm": "astar",
+    "trials": 120,
+    "success_rate": 0.625,
+    "valid_rate": 1.0,
+    "mean_length_success_only": 42.453,
+    "mean_expanded": 237.25,
+    "std_expanded": 221.114,
+    "mean_runtime_ms": 0.575001,
+    "std_runtime_ms": 0.583917,
+    "median_runtime_ms": 0.3933
+  }
+]

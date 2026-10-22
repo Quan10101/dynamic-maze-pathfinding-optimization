@@ -1,0 +1,33 @@
+﻿scenario,seed,size,density,algorithm,completed,steps_travelled,replans,expanded_total,runtime_total_ms,events_json
+0,20261016,15,0.1,bfs,True,28,1,204,0.171395,"[{""at_step"": 2, ""blocked_node"": 40}, {""at_step"": 5, ""blocked_node"": 32}, {""at_step"": 9, ""blocked_node"": 68}, {""at_step"": 14, ""blocked_node"": 185}]"
+0,20261016,15,0.1,bibfs,True,28,1,185,0.224204,"[{""at_step"": 2, ""blocked_node"": 40}, {""at_step"": 5, ""blocked_node"": 32}, {""at_step"": 9, ""blocked_node"": 68}, {""at_step"": 14, ""blocked_node"": 185}]"
+0,20261016,15,0.1,dijkstra,True,28,1,204,0.287107,"[{""at_step"": 2, ""blocked_node"": 40}, {""at_step"": 5, ""blocked_node"": 32}, {""at_step"": 9, ""blocked_node"": 68}, {""at_step"": 14, ""blocked_node"": 185}]"
+0,20261016,15,0.1,astar,True,28,1,193,0.362859,"[{""at_step"": 2, ""blocked_node"": 40}, {""at_step"": 5, ""blocked_node"": 32}, {""at_step"": 9, ""blocked_node"": 68}, {""at_step"": 14, ""blocked_node"": 185}]"
+1,20262025,20,0.1,bfs,True,38,1,356,0.312274,"[{""at_step"": 2, ""blocked_node"": 266}, {""at_step"": 5, ""blocked_node"": 287}, {""at_step"": 9, ""blocked_node"": 113}, {""at_step"": 14, ""blocked_node"": 264}]"
+1,20262025,20,0.1,bibfs,True,38,1,318,0.380506,"[{""at_step"": 2, ""blocked_node"": 266}, {""at_step"": 5, ""blocked_node"": 287}, {""at_step"": 9, ""blocked_node"": 113}, {""at_step"": 14, ""blocked_node"": 264}]"
+1,20262025,20,0.1,dijkstra,True,38,1,356,0.557379,"[{""at_step"": 2, ""blocked_node"": 266}, {""at_step"": 5, ""blocked_node"": 287}, {""at_step"": 9, ""blocked_node"": 113}, {""at_step"": 14, ""blocked_node"": 264}]"
+1,20262025,20,0.1,astar,True,38,1,317,0.48388,"[{""at_step"": 2, ""blocked_node"": 266}, {""at_step"": 5, ""blocked_node"": 287}, {""at_step"": 9, ""blocked_node"": 113}, {""at_step"": 14, ""blocked_node"": 264}]"
+2,20263034,30,0.1,bfs,True,58,1,815,0.771077,"[{""at_step"": 2, ""blocked_node"": 310}, {""at_step"": 5, ""blocked_node"": 695}, {""at_step"": 9, ""blocked_node"": 478}, {""at_step"": 14, ""blocked_node"": 54}]"
+2,20263034,30,0.1,bibfs,True,58,1,772,0.919047,"[{""at_step"": 2, ""blocked_node"": 310}, {""at_step"": 5, ""blocked_node"": 695}, {""at_step"": 9, ""blocked_node"": 478}, {""at_step"": 14, ""blocked_node"": 54}]"
+2,20263034,30,0.1,dijkstra,True,58,2,1626,2.596823,"[{""at_step"": 2, ""blocked_node"": 310}, {""at_step"": 5, ""blocked_node"": 695}, {""at_step"": 9, ""blocked_node"": 478}, {""at_step"": 14, ""blocked_node"": 54}]"
+2,20263034,30,0.1,astar,True,58,2,1157,1.892434,"[{""at_step"": 2, ""blocked_node"": 310}, {""at_step"": 5, ""blocked_node"": 695}, {""at_step"": 9, ""blocked_node"": 478}, {""at_step"": 14, ""blocked_node"": 54}]"
+3,20264043,15,0.25,bfs,False,0,1,5,0.004667,[]
+3,20264043,15,0.25,bibfs,False,0,1,6,0.010525,[]
+3,20264043,15,0.25,dijkstra,False,0,1,5,0.00638,[]
+3,20264043,15,0.25,astar,False,0,1,5,0.00706,[]
+4,20265052,20,0.25,bfs,True,40,2,567,0.490299,"[{""at_step"": 2, ""blocked_node"": 91}, {""at_step"": 5, ""blocked_node"": 114}, {""at_step"": 9, ""blocked_node"": 233}, {""at_step"": 14, ""blocked_node"": 264}]"
+4,20265052,20,0.25,bibfs,True,40,2,295,0.395789,"[{""at_step"": 2, ""blocked_node"": 91}, {""at_step"": 5, ""blocked_node"": 114}, {""at_step"": 9, ""blocked_node"": 233}, {""at_step"": 14, ""blocked_node"": 264}]"
+4,20265052,20,0.25,dijkstra,True,40,2,567,0.743546,"[{""at_step"": 2, ""blocked_node"": 91}, {""at_step"": 5, ""blocked_node"": 114}, {""at_step"": 9, ""blocked_node"": 233}, {""at_step"": 14, ""blocked_node"": 264}]"
+4,20265052,20,0.25,astar,True,40,2,298,0.488818,"[{""at_step"": 2, ""blocked_node"": 91}, {""at_step"": 5, ""blocked_node"": 114}, {""at_step"": 9, ""blocked_node"": 233}, {""at_step"": 14, ""blocked_node"": 264}]"
+5,20266061,30,0.25,bfs,True,60,1,662,0.605451,"[{""at_step"": 2, ""blocked_node"": 885}, {""at_step"": 5, ""blocked_node"": 318}, {""at_step"": 9, ""blocked_node"": 744}, {""at_step"": 14, ""blocked_node"": 517}]"
+5,20266061,30,0.25,bibfs,True,60,1,537,0.670908,"[{""at_step"": 2, ""blocked_node"": 885}, {""at_step"": 5, ""blocked_node"": 318}, {""at_step"": 9, ""blocked_node"": 744}, {""at_step"": 14, ""blocked_node"": 517}]"
+5,20266061,30,0.25,dijkstra,True,60,2,1322,1.819966,"[{""at_step"": 2, ""blocked_node"": 885}, {""at_step"": 5, ""blocked_node"": 318}, {""at_step"": 9, ""blocked_node"": 744}, {""at_step"": 14, ""blocked_node"": 517}]"
+5,20266061,30,0.25,astar,True,60,2,868,1.440884,"[{""at_step"": 2, ""blocked_node"": 885}, {""at_step"": 5, ""blocked_node"": 318}, {""at_step"": 9, ""blocked_node"": 744}, {""at_step"": 14, ""blocked_node"": 517}]"
+6,20267070,15,0.35,bfs,False,0,1,26,0.021572,[]
+6,20267070,15,0.35,bibfs,False,0,1,6,0.010987,[]
+6,20267070,15,0.35,dijkstra,False,0,1,26,0.031907,[]
+6,20267070,15,0.35,astar,False,0,1,26,0.035322,[]
+7,20268079,20,0.35,bfs,False,0,1,205,0.168981,[]
+7,20268079,20,0.35,bibfs,False,0,1,87,0.125958,[]
+7,20268079,20,0.35,dijkstra,False,0,1,205,0.365363,[]
+7,20268079,20,0.35,astar,False,0,1,205,0.288089,[]

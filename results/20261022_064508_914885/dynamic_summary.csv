@@ -1,0 +1,5 @@
+﻿algorithm,trials,success_rate,mean_replans,mean_travel_steps,mean_expanded_total
+bfs,30,0.7,1.333,30.767,457.967
+bibfs,30,0.7,1.267,30.767,326.967
+dijkstra,30,0.7,1.267,30.767,433.3
+astar,30,0.7,1.267,30.767,300.4

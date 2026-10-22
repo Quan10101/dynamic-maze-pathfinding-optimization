@@ -1,0 +1,5504 @@
+[
+  {
+    "algorithm": "bfs",
+    "iteration": 1,
+    "node": 0,
+    "frontier": 0,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 2,
+    "node": 15,
+    "frontier": 1,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 3,
+    "node": 1,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 4,
+    "node": 30,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 5,
+    "node": 16,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 6,
+    "node": 2,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 7,
+    "node": 45,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 8,
+    "node": 31,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 9,
+    "node": 3,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 10,
+    "node": 60,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 11,
+    "node": 46,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 12,
+    "node": 32,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 13,
+    "node": 4,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 14,
+    "node": 75,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 15,
+    "node": 61,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 16,
+    "node": 47,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 17,
+    "node": 33,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 18,
+    "node": 19,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 19,
+    "node": 5,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 20,
+    "node": 90,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 21,
+    "node": 76,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 22,
+    "node": 62,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 23,
+    "node": 48,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 24,
+    "node": 34,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 25,
+    "node": 20,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 26,
+    "node": 6,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 27,
+    "node": 91,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 28,
+    "node": 63,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 29,
+    "node": 49,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 30,
+    "node": 35,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 31,
+    "node": 21,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 32,
+    "node": 7,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 33,
+    "node": 106,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 34,
+    "node": 92,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 35,
+    "node": 78,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 36,
+    "node": 64,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 37,
+    "node": 50,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 38,
+    "node": 36,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 39,
+    "node": 22,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 40,
+    "node": 8,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 41,
+    "node": 121,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 42,
+    "node": 107,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 43,
+    "node": 93,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 44,
+    "node": 65,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 45,
+    "node": 51,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 46,
+    "node": 37,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 47,
+    "node": 23,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 48,
+    "node": 9,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 49,
+    "node": 136,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 50,
+    "node": 120,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 51,
+    "node": 108,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 52,
+    "node": 94,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 53,
+    "node": 80,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 54,
+    "node": 66,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 55,
+    "node": 52,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 56,
+    "node": 38,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 57,
+    "node": 24,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 58,
+    "node": 10,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 59,
+    "node": 151,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 60,
+    "node": 135,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 61,
+    "node": 137,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 62,
+    "node": 123,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 63,
+    "node": 109,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 64,
+    "node": 95,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 65,
+    "node": 67,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 66,
+    "node": 53,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 67,
+    "node": 39,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 68,
+    "node": 25,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 69,
+    "node": 166,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 70,
+    "node": 150,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 71,
+    "node": 152,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 72,
+    "node": 138,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 73,
+    "node": 124,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 74,
+    "node": 110,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 75,
+    "node": 96,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 76,
+    "node": 82,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 77,
+    "node": 68,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 78,
+    "node": 54,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 79,
+    "node": 40,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 80,
+    "node": 26,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 81,
+    "node": 181,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 82,
+    "node": 165,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 83,
+    "node": 167,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 84,
+    "node": 153,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 85,
+    "node": 139,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 86,
+    "node": 125,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 87,
+    "node": 111,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 88,
+    "node": 97,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 89,
+    "node": 83,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 90,
+    "node": 69,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 91,
+    "node": 55,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 92,
+    "node": 41,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 93,
+    "node": 27,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 94,
+    "node": 196,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 95,
+    "node": 180,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 96,
+    "node": 182,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 97,
+    "node": 168,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 98,
+    "node": 154,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 99,
+    "node": 140,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 100,
+    "node": 126,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 101,
+    "node": 98,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 102,
+    "node": 84,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 103,
+    "node": 70,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 104,
+    "node": 42,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 105,
+    "node": 12,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 106,
+    "node": 28,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 107,
+    "node": 211,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 108,
+    "node": 195,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 109,
+    "node": 197,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 110,
+    "node": 183,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 111,
+    "node": 169,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 112,
+    "node": 155,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 113,
+    "node": 141,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 114,
+    "node": 127,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 115,
+    "node": 113,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 116,
+    "node": 99,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 117,
+    "node": 85,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 118,
+    "node": 71,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 119,
+    "node": 43,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 120,
+    "node": 13,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 121,
+    "node": 29,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 122,
+    "node": 210,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 123,
+    "node": 212,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 124,
+    "node": 184,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 125,
+    "node": 170,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 126,
+    "node": 156,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 127,
+    "node": 142,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 128,
+    "node": 128,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 129,
+    "node": 114,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 130,
+    "node": 86,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 131,
+    "node": 72,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 132,
+    "node": 58,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 133,
+    "node": 44,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 134,
+    "node": 14,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 135,
+    "node": 213,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 136,
+    "node": 199,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 137,
+    "node": 185,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 138,
+    "node": 157,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 139,
+    "node": 143,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 140,
+    "node": 129,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 141,
+    "node": 87,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 142,
+    "node": 73,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 143,
+    "node": 214,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 144,
+    "node": 200,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 145,
+    "node": 186,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 146,
+    "node": 172,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 147,
+    "node": 144,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 148,
+    "node": 130,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 149,
+    "node": 102,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 150,
+    "node": 88,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 151,
+    "node": 74,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 152,
+    "node": 215,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 153,
+    "node": 201,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 154,
+    "node": 187,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 155,
+    "node": 173,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 156,
+    "node": 159,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 157,
+    "node": 145,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 158,
+    "node": 131,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 159,
+    "node": 117,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 160,
+    "node": 103,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 161,
+    "node": 89,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 162,
+    "node": 216,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 163,
+    "node": 202,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 164,
+    "node": 188,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 165,
+    "node": 174,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 166,
+    "node": 160,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 167,
+    "node": 146,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 168,
+    "node": 116,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 169,
+    "node": 132,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 170,
+    "node": 118,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 171,
+    "node": 104,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 172,
+    "node": 217,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 173,
+    "node": 203,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 174,
+    "node": 189,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 175,
+    "node": 175,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 176,
+    "node": 161,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 177,
+    "node": 147,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 178,
+    "node": 133,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 179,
+    "node": 119,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 180,
+    "node": 218,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 181,
+    "node": 204,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 182,
+    "node": 190,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 183,
+    "node": 176,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 184,
+    "node": 162,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 185,
+    "node": 148,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 186,
+    "node": 134,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 187,
+    "node": 219,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 188,
+    "node": 205,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 189,
+    "node": 191,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 190,
+    "node": 163,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 191,
+    "node": 149,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 192,
+    "node": 220,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 193,
+    "node": 206,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 194,
+    "node": 192,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 195,
+    "node": 164,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 196,
+    "node": 221,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 197,
+    "node": 207,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 198,
+    "node": 179,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 199,
+    "node": 222,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 200,
+    "node": 208,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 201,
+    "node": 194,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 202,
+    "node": 223,
+    "frontier": 1,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 203,
+    "node": 209,
+    "frontier": 1,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bfs",
+    "iteration": 204,
+    "node": 224,
+    "frontier": 0,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 1,
+    "node": 0,
+    "frontier": 1,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 2,
+    "node": 224,
+    "frontier": 2,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 3,
+    "node": 15,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 4,
+    "node": 1,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 5,
+    "node": 209,
+    "frontier": 4,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 6,
+    "node": 223,
+    "frontier": 5,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 7,
+    "node": 30,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 8,
+    "node": 16,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 9,
+    "node": 2,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 10,
+    "node": 45,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 11,
+    "node": 31,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 12,
+    "node": 3,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 13,
+    "node": 194,
+    "frontier": 6,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 14,
+    "node": 208,
+    "frontier": 6,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 15,
+    "node": 222,
+    "frontier": 6,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 16,
+    "node": 179,
+    "frontier": 6,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 17,
+    "node": 207,
+    "frontier": 6,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 18,
+    "node": 221,
+    "frontier": 7,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 19,
+    "node": 60,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 20,
+    "node": 46,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 21,
+    "node": 32,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 22,
+    "node": 4,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 23,
+    "node": 164,
+    "frontier": 9,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 24,
+    "node": 192,
+    "frontier": 10,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 25,
+    "node": 206,
+    "frontier": 10,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 26,
+    "node": 220,
+    "frontier": 10,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 27,
+    "node": 149,
+    "frontier": 10,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 28,
+    "node": 163,
+    "frontier": 11,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 29,
+    "node": 191,
+    "frontier": 11,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 30,
+    "node": 205,
+    "frontier": 12,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 31,
+    "node": 219,
+    "frontier": 12,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 32,
+    "node": 75,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 33,
+    "node": 61,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 34,
+    "node": 47,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 35,
+    "node": 33,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 36,
+    "node": 19,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 37,
+    "node": 5,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 38,
+    "node": 90,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 39,
+    "node": 76,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 40,
+    "node": 62,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 41,
+    "node": 48,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 42,
+    "node": 34,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 43,
+    "node": 20,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 44,
+    "node": 6,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 45,
+    "node": 91,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 46,
+    "node": 63,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 47,
+    "node": 49,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 48,
+    "node": 35,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 49,
+    "node": 21,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 50,
+    "node": 7,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 51,
+    "node": 134,
+    "frontier": 14,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 52,
+    "node": 148,
+    "frontier": 15,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 53,
+    "node": 162,
+    "frontier": 15,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 54,
+    "node": 176,
+    "frontier": 15,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 55,
+    "node": 190,
+    "frontier": 15,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 56,
+    "node": 204,
+    "frontier": 15,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 57,
+    "node": 218,
+    "frontier": 15,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 58,
+    "node": 106,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 59,
+    "node": 92,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 60,
+    "node": 78,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 61,
+    "node": 64,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 62,
+    "node": 50,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 63,
+    "node": 36,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 64,
+    "node": 22,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 65,
+    "node": 8,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 66,
+    "node": 121,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 67,
+    "node": 107,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 68,
+    "node": 93,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 69,
+    "node": 65,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 70,
+    "node": 51,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 71,
+    "node": 37,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 72,
+    "node": 23,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 73,
+    "node": 9,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 74,
+    "node": 119,
+    "frontier": 17,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 75,
+    "node": 133,
+    "frontier": 18,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 76,
+    "node": 147,
+    "frontier": 18,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 77,
+    "node": 161,
+    "frontier": 18,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 78,
+    "node": 175,
+    "frontier": 18,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 79,
+    "node": 189,
+    "frontier": 18,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 80,
+    "node": 203,
+    "frontier": 18,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 81,
+    "node": 217,
+    "frontier": 18,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 82,
+    "node": 104,
+    "frontier": 18,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 83,
+    "node": 118,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 84,
+    "node": 132,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 85,
+    "node": 146,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 86,
+    "node": 160,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 87,
+    "node": 174,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 88,
+    "node": 188,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 89,
+    "node": 202,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 90,
+    "node": 216,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 91,
+    "node": 136,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 92,
+    "node": 120,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 93,
+    "node": 108,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 94,
+    "node": 94,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 95,
+    "node": 80,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 96,
+    "node": 66,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 97,
+    "node": 52,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 98,
+    "node": 38,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 99,
+    "node": 24,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 100,
+    "node": 10,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 101,
+    "node": 151,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 102,
+    "node": 135,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 103,
+    "node": 137,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 104,
+    "node": 123,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 105,
+    "node": 109,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 106,
+    "node": 95,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 107,
+    "node": 67,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 108,
+    "node": 53,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 109,
+    "node": 39,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 110,
+    "node": 25,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 111,
+    "node": 89,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 112,
+    "node": 103,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 113,
+    "node": 117,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 114,
+    "node": 131,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 115,
+    "node": 145,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 116,
+    "node": 159,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 117,
+    "node": 173,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 118,
+    "node": 187,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 119,
+    "node": 201,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 120,
+    "node": 215,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 121,
+    "node": 74,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 122,
+    "node": 88,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 123,
+    "node": 102,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 124,
+    "node": 116,
+    "frontier": 20,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 125,
+    "node": 130,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 126,
+    "node": 144,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 127,
+    "node": 172,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 128,
+    "node": 186,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 129,
+    "node": 200,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 130,
+    "node": 214,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 131,
+    "node": 73,
+    "frontier": 19,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 132,
+    "node": 87,
+    "frontier": 20,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 133,
+    "node": 129,
+    "frontier": 20,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 134,
+    "node": 143,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 135,
+    "node": 157,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 136,
+    "node": 185,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 137,
+    "node": 199,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 138,
+    "node": 213,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 139,
+    "node": 58,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 140,
+    "node": 72,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 141,
+    "node": 86,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 142,
+    "node": 114,
+    "frontier": 21,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 143,
+    "node": 128,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 144,
+    "node": 142,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 145,
+    "node": 156,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 146,
+    "node": 170,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 147,
+    "node": 184,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 148,
+    "node": 212,
+    "frontier": 22,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 149,
+    "node": 166,
+    "frontier": 23,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 150,
+    "node": 150,
+    "frontier": 25,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 151,
+    "node": 152,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 152,
+    "node": 138,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 153,
+    "node": 124,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 154,
+    "node": 110,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 155,
+    "node": 96,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 156,
+    "node": 82,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 157,
+    "node": 68,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 158,
+    "node": 54,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 159,
+    "node": 40,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 160,
+    "node": 26,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 161,
+    "node": 43,
+    "frontier": 24,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 162,
+    "node": 71,
+    "frontier": 26,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 163,
+    "node": 85,
+    "frontier": 26,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 164,
+    "node": 99,
+    "frontier": 26,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 165,
+    "node": 113,
+    "frontier": 26,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 166,
+    "node": 127,
+    "frontier": 25,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 167,
+    "node": 141,
+    "frontier": 25,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 168,
+    "node": 155,
+    "frontier": 25,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 169,
+    "node": 169,
+    "frontier": 25,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 170,
+    "node": 183,
+    "frontier": 25,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 171,
+    "node": 197,
+    "frontier": 25,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 172,
+    "node": 211,
+    "frontier": 25,
+    "side": "reverse"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 173,
+    "node": 181,
+    "frontier": 25,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 174,
+    "node": 165,
+    "frontier": 27,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 175,
+    "node": 167,
+    "frontier": 26,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 176,
+    "node": 153,
+    "frontier": 26,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 177,
+    "node": 139,
+    "frontier": 26,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 178,
+    "node": 125,
+    "frontier": 26,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 179,
+    "node": 111,
+    "frontier": 26,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 180,
+    "node": 97,
+    "frontier": 25,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 181,
+    "node": 83,
+    "frontier": 25,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 182,
+    "node": 69,
+    "frontier": 25,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 183,
+    "node": 55,
+    "frontier": 25,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 184,
+    "node": 41,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "bibfs",
+    "iteration": 185,
+    "node": 27,
+    "frontier": 24,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 1,
+    "node": 0,
+    "frontier": 0,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 2,
+    "node": 1,
+    "frontier": 1,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 3,
+    "node": 15,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 4,
+    "node": 2,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 5,
+    "node": 16,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 6,
+    "node": 30,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 7,
+    "node": 3,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 8,
+    "node": 31,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 9,
+    "node": 45,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 10,
+    "node": 4,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 11,
+    "node": 32,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 12,
+    "node": 46,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 13,
+    "node": 60,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 14,
+    "node": 5,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 15,
+    "node": 19,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 16,
+    "node": 33,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 17,
+    "node": 47,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 18,
+    "node": 61,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 19,
+    "node": 75,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 20,
+    "node": 6,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 21,
+    "node": 20,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 22,
+    "node": 34,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 23,
+    "node": 48,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 24,
+    "node": 62,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 25,
+    "node": 76,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 26,
+    "node": 90,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 27,
+    "node": 7,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 28,
+    "node": 21,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 29,
+    "node": 35,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 30,
+    "node": 49,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 31,
+    "node": 63,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 32,
+    "node": 91,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 33,
+    "node": 8,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 34,
+    "node": 22,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 35,
+    "node": 36,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 36,
+    "node": 50,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 37,
+    "node": 64,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 38,
+    "node": 78,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 39,
+    "node": 92,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 40,
+    "node": 106,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 41,
+    "node": 9,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 42,
+    "node": 23,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 43,
+    "node": 37,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 44,
+    "node": 51,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 45,
+    "node": 65,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 46,
+    "node": 93,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 47,
+    "node": 107,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 48,
+    "node": 121,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 49,
+    "node": 10,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 50,
+    "node": 24,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 51,
+    "node": 38,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 52,
+    "node": 52,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 53,
+    "node": 66,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 54,
+    "node": 80,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 55,
+    "node": 94,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 56,
+    "node": 108,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 57,
+    "node": 120,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 58,
+    "node": 136,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 59,
+    "node": 25,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 60,
+    "node": 39,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 61,
+    "node": 53,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 62,
+    "node": 67,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 63,
+    "node": 95,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 64,
+    "node": 109,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 65,
+    "node": 123,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 66,
+    "node": 135,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 67,
+    "node": 137,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 68,
+    "node": 151,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 69,
+    "node": 26,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 70,
+    "node": 40,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 71,
+    "node": 54,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 72,
+    "node": 68,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 73,
+    "node": 82,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 74,
+    "node": 96,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 75,
+    "node": 110,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 76,
+    "node": 124,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 77,
+    "node": 138,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 78,
+    "node": 150,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 79,
+    "node": 152,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 80,
+    "node": 166,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 81,
+    "node": 27,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 82,
+    "node": 41,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 83,
+    "node": 55,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 84,
+    "node": 69,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 85,
+    "node": 83,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 86,
+    "node": 97,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 87,
+    "node": 111,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 88,
+    "node": 125,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 89,
+    "node": 139,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 90,
+    "node": 153,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 91,
+    "node": 165,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 92,
+    "node": 167,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 93,
+    "node": 181,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 94,
+    "node": 12,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 95,
+    "node": 28,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 96,
+    "node": 42,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 97,
+    "node": 70,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 98,
+    "node": 84,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 99,
+    "node": 98,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 100,
+    "node": 126,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 101,
+    "node": 140,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 102,
+    "node": 154,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 103,
+    "node": 168,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 104,
+    "node": 180,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 105,
+    "node": 182,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 106,
+    "node": 196,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 107,
+    "node": 13,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 108,
+    "node": 29,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 109,
+    "node": 43,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 110,
+    "node": 71,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 111,
+    "node": 85,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 112,
+    "node": 99,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 113,
+    "node": 113,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 114,
+    "node": 127,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 115,
+    "node": 141,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 116,
+    "node": 155,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 117,
+    "node": 169,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 118,
+    "node": 183,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 119,
+    "node": 195,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 120,
+    "node": 197,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 121,
+    "node": 211,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 122,
+    "node": 14,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 123,
+    "node": 44,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 124,
+    "node": 58,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 125,
+    "node": 72,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 126,
+    "node": 86,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 127,
+    "node": 114,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 128,
+    "node": 128,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 129,
+    "node": 142,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 130,
+    "node": 156,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 131,
+    "node": 170,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 132,
+    "node": 184,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 133,
+    "node": 210,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 134,
+    "node": 212,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 135,
+    "node": 73,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 136,
+    "node": 87,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 137,
+    "node": 129,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 138,
+    "node": 143,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 139,
+    "node": 157,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 140,
+    "node": 185,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 141,
+    "node": 199,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 142,
+    "node": 213,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 143,
+    "node": 74,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 144,
+    "node": 88,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 145,
+    "node": 102,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 146,
+    "node": 130,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 147,
+    "node": 144,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 148,
+    "node": 172,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 149,
+    "node": 186,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 150,
+    "node": 200,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 151,
+    "node": 214,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 152,
+    "node": 89,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 153,
+    "node": 103,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 154,
+    "node": 117,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 155,
+    "node": 131,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 156,
+    "node": 145,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 157,
+    "node": 159,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 158,
+    "node": 173,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 159,
+    "node": 187,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 160,
+    "node": 201,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 161,
+    "node": 215,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 162,
+    "node": 104,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 163,
+    "node": 116,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 164,
+    "node": 118,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 165,
+    "node": 132,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 166,
+    "node": 146,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 167,
+    "node": 160,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 168,
+    "node": 174,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 169,
+    "node": 188,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 170,
+    "node": 202,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 171,
+    "node": 216,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 172,
+    "node": 119,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 173,
+    "node": 133,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 174,
+    "node": 147,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 175,
+    "node": 161,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 176,
+    "node": 175,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 177,
+    "node": 189,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 178,
+    "node": 203,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 179,
+    "node": 217,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 180,
+    "node": 134,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 181,
+    "node": 148,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 182,
+    "node": 162,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 183,
+    "node": 176,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 184,
+    "node": 190,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 185,
+    "node": 204,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 186,
+    "node": 218,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 187,
+    "node": 149,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 188,
+    "node": 163,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 189,
+    "node": 191,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 190,
+    "node": 205,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 191,
+    "node": 219,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 192,
+    "node": 164,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 193,
+    "node": 192,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 194,
+    "node": 206,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 195,
+    "node": 220,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 196,
+    "node": 179,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 197,
+    "node": 207,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 198,
+    "node": 221,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 199,
+    "node": 194,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 200,
+    "node": 208,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 201,
+    "node": 222,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 202,
+    "node": 209,
+    "frontier": 1,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 203,
+    "node": 223,
+    "frontier": 1,
+    "side": "forward"
+  },
+  {
+    "algorithm": "dijkstra",
+    "iteration": 204,
+    "node": 224,
+    "frontier": 0,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 1,
+    "node": 0,
+    "frontier": 0,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 2,
+    "node": 1,
+    "frontier": 1,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 3,
+    "node": 15,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 4,
+    "node": 2,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 5,
+    "node": 16,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 6,
+    "node": 30,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 7,
+    "node": 3,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 8,
+    "node": 31,
+    "frontier": 2,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 9,
+    "node": 45,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 10,
+    "node": 4,
+    "frontier": 3,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 11,
+    "node": 32,
+    "frontier": 4,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 12,
+    "node": 46,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 13,
+    "node": 60,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 14,
+    "node": 5,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 15,
+    "node": 19,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 16,
+    "node": 33,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 17,
+    "node": 47,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 18,
+    "node": 61,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 19,
+    "node": 75,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 20,
+    "node": 6,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 21,
+    "node": 20,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 22,
+    "node": 34,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 23,
+    "node": 48,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 24,
+    "node": 62,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 25,
+    "node": 76,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 26,
+    "node": 90,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 27,
+    "node": 7,
+    "frontier": 5,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 28,
+    "node": 21,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 29,
+    "node": 35,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 30,
+    "node": 49,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 31,
+    "node": 63,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 32,
+    "node": 91,
+    "frontier": 6,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 33,
+    "node": 8,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 34,
+    "node": 22,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 35,
+    "node": 36,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 36,
+    "node": 50,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 37,
+    "node": 64,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 38,
+    "node": 78,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 39,
+    "node": 92,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 40,
+    "node": 106,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 41,
+    "node": 9,
+    "frontier": 7,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 42,
+    "node": 23,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 43,
+    "node": 37,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 44,
+    "node": 51,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 45,
+    "node": 65,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 46,
+    "node": 93,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 47,
+    "node": 107,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 48,
+    "node": 121,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 49,
+    "node": 10,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 50,
+    "node": 24,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 51,
+    "node": 38,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 52,
+    "node": 52,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 53,
+    "node": 66,
+    "frontier": 9,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 54,
+    "node": 80,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 55,
+    "node": 94,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 56,
+    "node": 108,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 57,
+    "node": 136,
+    "frontier": 8,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 58,
+    "node": 25,
+    "frontier": 10,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 59,
+    "node": 39,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 60,
+    "node": 53,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 61,
+    "node": 67,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 62,
+    "node": 95,
+    "frontier": 11,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 63,
+    "node": 109,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 64,
+    "node": 123,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 65,
+    "node": 137,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 66,
+    "node": 151,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 67,
+    "node": 26,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 68,
+    "node": 40,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 69,
+    "node": 54,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 70,
+    "node": 68,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 71,
+    "node": 82,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 72,
+    "node": 96,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 73,
+    "node": 110,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 74,
+    "node": 124,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 75,
+    "node": 138,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 76,
+    "node": 152,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 77,
+    "node": 166,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 78,
+    "node": 27,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 79,
+    "node": 41,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 80,
+    "node": 55,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 81,
+    "node": 69,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 82,
+    "node": 83,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 83,
+    "node": 97,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 84,
+    "node": 111,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 85,
+    "node": 125,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 86,
+    "node": 139,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 87,
+    "node": 153,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 88,
+    "node": 167,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 89,
+    "node": 181,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 90,
+    "node": 28,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 91,
+    "node": 42,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 92,
+    "node": 70,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 93,
+    "node": 84,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 94,
+    "node": 98,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 95,
+    "node": 126,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 96,
+    "node": 140,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 97,
+    "node": 154,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 98,
+    "node": 168,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 99,
+    "node": 182,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 100,
+    "node": 196,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 101,
+    "node": 29,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 102,
+    "node": 43,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 103,
+    "node": 71,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 104,
+    "node": 85,
+    "frontier": 22,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 105,
+    "node": 99,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 106,
+    "node": 113,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 107,
+    "node": 127,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 108,
+    "node": 141,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 109,
+    "node": 155,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 110,
+    "node": 169,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 111,
+    "node": 183,
+    "frontier": 21,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 112,
+    "node": 197,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 113,
+    "node": 211,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 114,
+    "node": 44,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 115,
+    "node": 58,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 116,
+    "node": 72,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 117,
+    "node": 86,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 118,
+    "node": 114,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 119,
+    "node": 128,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 120,
+    "node": 142,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 121,
+    "node": 156,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 122,
+    "node": 170,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 123,
+    "node": 184,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 124,
+    "node": 212,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 125,
+    "node": 73,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 126,
+    "node": 87,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 127,
+    "node": 129,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 128,
+    "node": 143,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 129,
+    "node": 157,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 130,
+    "node": 185,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 131,
+    "node": 199,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 132,
+    "node": 213,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 133,
+    "node": 74,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 134,
+    "node": 88,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 135,
+    "node": 102,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 136,
+    "node": 130,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 137,
+    "node": 144,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 138,
+    "node": 172,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 139,
+    "node": 186,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 140,
+    "node": 200,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 141,
+    "node": 214,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 142,
+    "node": 89,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 143,
+    "node": 103,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 144,
+    "node": 117,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 145,
+    "node": 131,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 146,
+    "node": 145,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 147,
+    "node": 159,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 148,
+    "node": 173,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 149,
+    "node": 187,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 150,
+    "node": 201,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 151,
+    "node": 215,
+    "frontier": 20,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 152,
+    "node": 104,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 153,
+    "node": 118,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 154,
+    "node": 132,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 155,
+    "node": 146,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 156,
+    "node": 160,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 157,
+    "node": 174,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 158,
+    "node": 188,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 159,
+    "node": 202,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 160,
+    "node": 216,
+    "frontier": 19,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 161,
+    "node": 119,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 162,
+    "node": 133,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 163,
+    "node": 147,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 164,
+    "node": 161,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 165,
+    "node": 175,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 166,
+    "node": 189,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 167,
+    "node": 203,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 168,
+    "node": 217,
+    "frontier": 18,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 169,
+    "node": 134,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 170,
+    "node": 148,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 171,
+    "node": 162,
+    "frontier": 17,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 172,
+    "node": 176,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 173,
+    "node": 190,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 174,
+    "node": 204,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 175,
+    "node": 218,
+    "frontier": 16,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 176,
+    "node": 149,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 177,
+    "node": 163,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 178,
+    "node": 191,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 179,
+    "node": 205,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 180,
+    "node": 219,
+    "frontier": 15,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 181,
+    "node": 164,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 182,
+    "node": 192,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 183,
+    "node": 206,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 184,
+    "node": 220,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 185,
+    "node": 179,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 186,
+    "node": 207,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 187,
+    "node": 221,
+    "frontier": 14,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 188,
+    "node": 194,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 189,
+    "node": 208,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 190,
+    "node": 222,
+    "frontier": 13,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 191,
+    "node": 209,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 192,
+    "node": 223,
+    "frontier": 12,
+    "side": "forward"
+  },
+  {
+    "algorithm": "astar",
+    "iteration": 193,
+    "node": 224,
+    "frontier": 11,
+    "side": "forward"
+  }
+]

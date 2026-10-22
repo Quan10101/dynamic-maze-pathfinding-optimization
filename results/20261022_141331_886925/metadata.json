@@ -1,0 +1,26 @@
+{
+  "seed": 20261016,
+  "trials": 120,
+  "sizes": [
+    15,
+    20,
+    30
+  ],
+  "densities": [
+    0.1,
+    0.25,
+    0.35
+  ],
+  "algorithms": [
+    "bfs",
+    "bibfs",
+    "dijkstra",
+    "astar"
+  ],
+  "python": "3.13.14 (tags/v3.13.14:fd17997, Jun 10 2026, 13:03:48) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26300-SP0",
+  "mismatches": 0,
+  "design": "paired scenarios; same seed, grid, obstacles, S/E, cost; no tuning on test; warmup not separated",
+  "dynamic_design": "paired scenarios, fixed event positions and injection steps across algorithms, same original map and seed; skip event if at current agent position",
+  "convergence": "exact discrete shortest path algorithms; trace shows cumulative frontier/expanded, NOT loss-convergence curve"
+}

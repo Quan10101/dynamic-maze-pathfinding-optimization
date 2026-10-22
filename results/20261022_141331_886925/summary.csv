@@ -1,0 +1,5 @@
+﻿algorithm,trials,success_rate,valid_rate,mean_length_success_only,mean_expanded,std_expanded,mean_runtime_ms,std_runtime_ms,median_runtime_ms
+bfs,120,0.625,1.0,42.453,306.75,265.454,0.411797,0.402757,0.2923
+bibfs,120,0.625,1.0,42.453,230.25,243.765,0.420652,0.472639,0.2467
+dijkstra,120,0.625,1.0,42.453,306.975,265.489,0.625742,0.573316,0.4236
+astar,120,0.625,1.0,42.453,237.25,221.114,0.575001,0.583917,0.3933
